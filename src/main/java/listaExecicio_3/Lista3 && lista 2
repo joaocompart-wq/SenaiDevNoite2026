@@ -1,0 +1,98 @@
+Lista 2
+Exercício 1: Calculadora de Descontos em Compras
+
+Você está criando uma calculadora de descontos para um site de compras. O sistema deve aplicar um desconto em uma compra com base no valor total da compra. O desconto varia de acordo com a faixa de valor:
+Se o valor total da compra for até R$ 200,00, o desconto é de 5%.
+Se o valor total for maior que R$ 200,00 e até R$ 500,00, o desconto é de 10%.
+Se o valor total for maior que R$ 500,00, o desconto é de 15%.
+
+O algoritmo deve calcular o valor final da compra, considerando o desconto.
+O algoritmo deve receber o valor total da compra.
+Com base no valor, deve calcular o desconto a ser aplicado.
+O algoritmo deve exibir o valor total da compra com o desconto aplicado.
+Valor da compra: R$ 350,00
+Desconto de 10% aplicado: R$ 35,00
+Valor final: R$ 315,00
+__________________________________________________________________________________________________
+Exercício 2: Controle de Temperatura
+
+Uma pessoa deseja controlar a temperatura de uma casa utilizando um termômetro inteligente. O sistema deve verificar a temperatura do ambiente e sugerir ações com base no intervalo de temperatura.
+Se a temperatura estiver abaixo de 18°C, o sistema deve sugerir "Ligar o aquecedor".
+Se a temperatura estiver entre 18°C e 25°C, o sistema deve sugerir "Manter a temperatura atual".
+Se a temperatura estiver acima de 25°C, o sistema deve sugerir "Ligar o ar condicionado".
+O algoritmo deve receber a temperatura atual do ambiente.
+Com base na temperatura, o algoritmo deve exibir a ação recomendada (aquecedor, manter ou ar condicionado).
+Temperatura: 22°C
+Ação recomendada: "Manter a temperatura atual"
+
+lISTA 3
+1 - Algoritmo Gestão Escolar
+
+Você está desenvolvendo um sistema de cálculo de notas finais para um aplicativo de gestão escolar. O sistema deve calcular a nota final do aluno com base nas notas das provas e atividades. As notas das provas têm peso 70% e as das atividades têm peso 30%.
+
+O algoritmo deve calcular a média ponderada e informar se o aluno foi aprovado ou reprovado, considerando que a nota mínima para aprovação é 6.
+
+* O algoritmo deve receber as notas das provas e das atividades.
+* Calcular a média ponderada.
+
+Exibir a média final e a situação do aluno (aprovado ou reprovado).
+
+Nota das provas: 7,5
+Nota das atividades: 8,0
+Média Final: 7,65
+
+Situação: Aprovado
+
+__________________________________________________________________________________________________
+2 - Algoritmo Gestão de Festa
+
+Você está criando um sistema para uma festa que exige que os convidados tenham no mínimo 18 anos para entrar. O sistema deve verificar se o usuário pode ou não entrar, considerando sua idade.
+
+* O algoritmo deve receber a data de nascimento do usuário.
+* Calcular a idade do usuário com base na data atual.
+* Verificar se o usuário tem 18 anos ou mais.
+* Exibir se o usuário pode ou não entrar na festa.
+
+Data de nascimento: 06/05/2006
+Idade: 19 anos
+Entrada permitida: Sim
+
+__________________________________________________________________________________________________
+3 - Algoritmo Gestão de Combustível
+
+Você está criando uma ferramenta para calcular a quantidade de combustível necessária para uma viagem de carro. O algoritmo deve calcular a quantidade de combustível com base na distância da viagem e no consumo médio do carro.
+
+* O algoritmo deve receber a distância da viagem e o consumo médio de combustível do carro. Calcular a quantidade de * combustível necessária para a viagem.
+* Exibir a quantidade de combustível.
+
+
+Distância: 300 km
+Consumo médio: 12 km
+Quantidade de combustível necessária: 25 litros
+
+__________________________________________________________________________________________________
+4 - Algoritmo Gestão de Pontos
+
+Você está criando um sistema para contar os pontos de um jogo entre dois jogadores. O jogador 1 ganha 10 pontos por vitória, e o jogador 2 ganha 5 pontos por vitória. O sistema deve calcular a pontuação final de cada jogador após um número de vitórias.
+
+* O algoritmo deve receber o número de vitórias de cada jogador.
+* Calcular a pontuação final de cada jogador.
+* Exibir a pontuação final de ambos os jogadores.
+
+Vitórias do jogador 1: 4
+Vitórias do jogador 2: 3
+Pontuação do jogador 1: 40 pontos
+Pontuação do jogador 2: 15 pontos
+_________________________________________________________________________________________________
+5 - Algoritmo Gestão de Salário
+
+Você está criando uma calculadora de salário para trabalhadores. O sistema deve calcular o salário líquido após o desconto de impostos. O imposto é de 10% sobre o salário bruto, e o sistema deve calcular o salário final.
+
+* O algoritmo deve receber o salário bruto do trabalhador.
+* Calcular o valor do imposto.
+* Subtrair o imposto do salário bruto para obter o salário líquido.
+* Exibir o salário líquido.
+
+Salário bruto: R$ 2.500,00
+Imposto de 10%: R$ 250,00
+Salário líquido: R$ 2.250,00
