@@ -1,0 +1,25 @@
+Lista de Exercícios: Estrutura de Repetição (Enquanto)
+
+Bloco 3: Validação e Condições de Parada
+11. Validação de Nota: Peça uma nota entre 0 e 10. Enquanto o usuário digitar um
+valor inválido (fora dessa faixa), continue pedindo a nota.
+12. Senha Correta: Crie um algoritmo que peça uma senha. Enquanto a senha for
+diferente de "1234", exiba "Senha Incorreta, tente novamente".
+13. Contagem de Negativos: Peça 10 números ao usuário. Ao final, informe
+quantos desses números eram negativos.
+14. Enquanto não for Zero: Peça números ao usuário continuamente. A repetição
+só deve parar quando ele digitar o número 0.
+15. Totalizador de Compras: Peça o preço de vários produtos. O programa deve
+parar de pedir preços quando o usuário digitar um valor negativo. Ao final, mostre
+o total da compra.
+
+Bloco 4: Lógica e Matemática
+16. Cálculo de Potência: Peça uma base e um expoente. Calcule o resultado da
+potência usando apenas multiplicações sucessivas dentro do Enquanto.
+17. Fatorial Simples: Peça um número e calcule o seu fatorial
+18. Crescimento Populacional: A cidade A tem 1000 habitantes e cresce 2% ao
+ano. A cidade B tem 1500 e cresce 1% ao ano. Em quantos anos a cidade A
+passará a cidade B?
+19. Média de Idades Indeterminada: Leia idades de pessoas até que seja
+digitada a idade 0. Calcule a média de idade do grupo.
+20. Sequência de Quadrados: Exiba o quadrado de cada número de 1 a 15.
