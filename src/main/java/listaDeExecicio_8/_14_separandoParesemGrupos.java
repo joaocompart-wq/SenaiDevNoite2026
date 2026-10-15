@@ -1,6 +1,5 @@
 package listaDeExecicio_8;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class _14_separandoParesemGrupos {
