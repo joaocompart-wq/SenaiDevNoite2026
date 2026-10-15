@@ -1,0 +1,33 @@
+Lista de Exercícios: Enquanto + Se + Mod (Resto da Divisão)
+
+Bloco 3: Usando o Mod para Verificações
+11. Pares e Ímpares com Mod: Peça ao usuário para digitar 20 números, um de cada vez, usando o
+Enquanto. Para cada número, use o Mod para calcular o resto da divisão por 2 e o Se para exibir se o
+número é par ou ímpar.
+12. Múltiplos de 3 e 5: Peça um número limite ao usuário. Usando o Enquanto, percorra todos os
+números de 1 até esse limite e, com o Mod, exiba apenas os números que são múltiplos de 3 ou de 5 ao
+mesmo tempo.
+13. Contador de Múltiplos: Peça ao usuário para digitar 15 números. Use o Mod para verificar quais
+deles são múltiplos de 4 e conte quantos múltiplos de 4 foram digitados. Exiba o total ao final.
+14. Separando Pares em Grupos: Peça 12 números ao usuário. Use o Mod para separar e contar, ao
+mesmo tempo, quantos números são pares e quantos são ímpares. Exiba os dois totais ao final.
+15. Verificador de Divisibilidade: Peça um número N e um divisor D ao usuário. Enquanto o usuário
+quiser testar novos pares de números (pergunte se ele deseja continuar após cada teste), use o Mod
+para verificar e informar se N é divisível por D.
+Bloco 4: Desafios Combinando Enquanto, Se e Mod
+16. Números Primos: Peça um número ao usuário. Usando o Enquanto, o Se e o Mod, verifique se o
+número é primo (ou seja, se ele só é divisível por 1 e por ele mesmo) e exiba o resultado.
+17. Soma dos Múltiplos de 3 e 5: Percorra, usando o Enquanto, todos os números de 1 até 100. Use o
+Mod para identificar os múltiplos de 3 ou de 5 e o Se para somá-los. Exiba o total da soma ao final (esse
+desafio é baseado no famoso Problem 1 do Project Euler).
+18. Separando Dígitos em Categoria: Peça 10 números inteiros ao usuário, um de cada vez. Use o
+Mod (resto da divisão por 10) e o Se para verificar se o último dígito de cada número é 0, 5 ou outro
+valor, exibindo essa classificação.
+19. Jogo de Adivinhação com Dica de Paridade: Sortear não é necessário: peça ao usuário para
+digitar números até acertar um valor secreto fixo definido no início do algoritmo (por exemplo, 42). A
+cada tentativa, use o Se para dizer se o palpite é maior ou menor que o número secreto e use o Mod
+para informar também se o palpite digitado é par ou ímpar. O Enquanto deve continuar até o usuário
+acertar.
+20. Calculadora de Troco em Moedas: Peça um valor em centavos ao usuário. Usando o Enquanto, o
+Se e o Mod, calcule e exiba quantas moedas de 25, 10, 5 e 1 centavo são necessárias para compor
+esse valor, utilizando o menor número possível de moedas.
